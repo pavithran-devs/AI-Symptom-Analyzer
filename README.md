@@ -161,5 +161,4 @@ This project is for educational purposes only and should not be used as a substi
 
 # Author
 
-Pavithran Raj
-AI and Machine Learning Enthusiast
+Pavithranraj AP
