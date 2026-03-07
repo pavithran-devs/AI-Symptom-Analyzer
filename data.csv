@@ -1,0 +1,9 @@
+text,category
+fever and body pain,General
+headache and fatigue,General
+cough and sore throat,Respiratory
+shortness of breath and cough,Respiratory
+nausea and stomach pain,Digestive
+vomiting and diarrhea,Digestive
+chest pain and difficulty breathing,Emergency
+severe bleeding and unconscious,Emergency
